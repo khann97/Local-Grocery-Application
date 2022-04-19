@@ -1,0 +1,10 @@
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\bin\Debug\NaderK_Assign2.exe.config
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\bin\Debug\NaderK_Assign2.exe
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\bin\Debug\NaderK_Assign2.pdb
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\obj\Debug\NaderK_Assign2.csproj.AssemblyReference.cache
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\obj\Debug\NaderK_Assign2.Form1.resources
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\obj\Debug\NaderK_Assign2.Properties.Resources.resources
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\obj\Debug\NaderK_Assign2.csproj.GenerateResource.cache
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\obj\Debug\NaderK_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\obj\Debug\NaderK_Assign2.exe
+C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\Assignment 2\NaderK_Assign2\NaderK_Assign2\NaderK_Assign2\obj\Debug\NaderK_Assign2.pdb
